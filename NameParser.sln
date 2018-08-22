@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameParser", "NameParser\NameParser.csproj", "{DB139F47-01F2-4D9F-8201-24EA8607C758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB139F47-01F2-4D9F-8201-24EA8607C758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB139F47-01F2-4D9F-8201-24EA8607C758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB139F47-01F2-4D9F-8201-24EA8607C758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB139F47-01F2-4D9F-8201-24EA8607C758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B570B56-C499-4D9E-8395-DA4021E1DE47}
+	EndGlobalSection
+EndGlobal
